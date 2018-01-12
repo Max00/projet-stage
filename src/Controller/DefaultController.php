@@ -13,4 +13,12 @@
 		{
 			// Je fais des trucs
 		}
+
+		/**
+		 * @Route("/autre", name="autre")
+		 */
+		public function autreMethode()
+		{
+			// Une autre
+		}
 	}
