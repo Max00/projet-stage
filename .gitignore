@@ -1,4 +1,7 @@
 
+# Ignorer le dossier .idea de PHPStorm
+.idea/
+
 ###> symfony/framework-bundle ###
 .env
 /public/bundles/
